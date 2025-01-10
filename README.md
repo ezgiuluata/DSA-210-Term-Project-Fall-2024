@@ -1,6 +1,8 @@
 # DSA-210-Term-Project-Fall-2024
 Welcome to the GitHub repository for my term project in the DSA210 course. This project will explore the relationship between the daily TikTok screen time and the steps taken during the day.
 
+You can access the presentation of my project via this link: https://docs.google.com/presentation/d/1sTLAdtnx10DQ5uD7IRb9uaBwg07HBjOZ3z0aZHBtikk/edit?usp=sharing 
+
 # Motivation
 I am Ezgi Uluata (32671), and for my term project for the DSA210 course, I will analyze how my daily TikTok screen time impacts the number of steps I take during a day. Watching TikTok has become a regular part of my routine, and this project is an opportunity to understand how this habit might be influencing my physical activity levels, specifically the steps I take. By analyzing this relationship, I hope to understand how TikTok screen time might influence personal health and well-being, specifically through its impact on the daily number of steps I take.
 # Hypothesis
